@@ -1,6 +1,6 @@
 ﻿## Assignment: ARK Studio
  
- Live DEMO--->https://happy-poitras-e3fe7b.netlify.app
+
 
 ### Problem Statement
 
